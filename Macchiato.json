@@ -85,7 +85,7 @@
 		"TEXT_LINK": ["#b7bdf8", "#b7bdf8"],
 		"TEXT_LINK_LOW_SATURATION": ["#cad3f5", "#cad3f5"],
 		"TEXT_MUTED": ["#6e738d", "#6e738d"],
-		"TEXT_NORMAL": ["#939ab7", "#939ab7"],
+		"TEXT_NORMAL": ["#cfd3e8", "#bfc4d9"],
 		"TEXT_POSITIVE": ["#eed49f", "#eed49f"],
 		"TEXT_WARNING": ["#ed8796", "#ed8796"]
 		},
