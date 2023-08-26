@@ -59,17 +59,5 @@
       "RED_660": "#C66262",
       "RED_700": "#C66262"
   },
- "plus":{
-       "version":"0",
-       "iconpack":"rosiecord-plumpy",
-       "icons":{
-          "ic_new_pins":"#eb6f92",
-          "StatusStreaming": "#c4a7e7",
-          "StatusMobileOnline": "#C66262",
-          "StatusIdle": "#ebd6ba",
-          "StatusDND": "#e30763",
-          "StatusOffline": "#6e6a86",
-          "StatusOnline": "#C66262"
- },
   "spec": 2
 }
