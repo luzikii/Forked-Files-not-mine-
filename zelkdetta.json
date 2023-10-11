@@ -1,0 +1,49 @@
+{
+    "name": "Zelketta",
+    "version": "0.1",
+    "description": "Zelk ported to Vendetta.",
+    "authors": [
+      {
+        "name": "Xemulated",
+        "id": "1145459250324312225"
+      }
+    ],
+    "semanticColors": {
+      "INTERACTIVE_ACTIVE": ["#bde6fb"],
+      "INTERACTIVE_NORMAL": ["#bde6fb"],
+      "INTERACTIVE_MUTED": ["#4d5f68"],
+      "BACKGROUND_ACCENT": ["#1e2529"],
+      "BACKGROUND_MENTIONED": ["#bde6fb10"],
+      "BACKGROUND_MESSAGE_HOVER": ["transparent"],
+      "BACKGROUND_MOBILE_PRIMARY": ["#171d20"],
+      "BACKGROUND_MOBILE_SECONDARY": ["#171d20"],
+      "BACKGROUND_PRIMARY": ["#171d20"],
+      "BACKGROUND_SECONDARY": ["#171d20"],
+      "BACKGROUND_SECONDARY_ALT": ["#171d20"],
+      "BACKGROUND_MODIFIER_ACCENT": ["transparent"],
+      "BACKGROUND_MODIFIER_ACTIVE": ["#495a63"],
+      "BACKGROUND_MODIFIER_HOVER": ["#262e33"],
+      "BACKGROUND_MODIFIER_SELECTED": ["#1e2529"],
+      "BACKGROUND_TERTIARY": ["#1e2529"],
+      "CHANNEL_ICON": ["#bde6fb"],
+      "CHAT_BACKGROUND": ["#171d20"],
+      "TEXT_DANGER": ["#382e36"],
+      "TEXT_NORMAL": ["#382e36"]
+    },
+    "rawColors": {
+      "BRAND_260": "#c9cdfb",
+      "BRAND_360": "#949cf7",
+      "BRAND_560": "#4752c4",
+      "GREEN_360": "#bde6fb",
+      "PRIMARY_230": "#bde6fb",
+      "PRIMARY_600": "#171d20",
+      "PRIMARY_630": "#1e2529",
+      "PRIMARY_660": "#1e2529",
+      "PRIMARY_700": "#1e2529",
+      "PRIMARY_800": "#1e2529",
+      "RED_400": "#C70C4D",
+      "WHITE_500": "#ffffff",
+      "YELLOW_300": "#bde6fb"
+    },
+    "spec": 2
+  }
